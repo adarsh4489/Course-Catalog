@@ -1,0 +1,17 @@
+.filter-section{
+  background-color:#bababa;
+  display:flex;
+  justify-content:center;
+  padding:1rem;
+}
+.btn{
+  background-color:#6d036d;
+  color:white;
+  padding:0.5rem;
+  border:transparent;
+  margin:0.25rem;
+  border-radius:4px;
+}
+.btn:hover{
+  background-color:#560656;
+}
